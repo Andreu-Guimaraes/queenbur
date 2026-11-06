@@ -9,3 +9,7 @@
 </script>
 
 <ChatHeader />
+
+<script>
+import ChatHeader from '../components/ChatInput.svelte
+</script>
